@@ -1,0 +1,1339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/垒骰子/Main.java" line="48" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4f624de-a169-4b9a-a8f3-fb4146e44faa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/IHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/IMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/动态规划之最短路径问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/大数相乘.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/归并排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/最近的点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/竖塔问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/网球比赛.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/买卖股票的最佳时机II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/从排序数组中删除重复项.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="arithmeticSchedule" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/IMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="23" column="39" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="409">
+              <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+              <folding>
+                <element signature="e#3460#3461#0" expanded="true" />
+                <element signature="e#3500#3501#0" expanded="true" />
+                <element signature="e#5872#5873#0" expanded="true" />
+                <element signature="e#5940#5941#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="607">
+              <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+              <folding>
+                <element signature="e#132#138#0" expanded="true" />
+                <element signature="e#185#186#0" expanded="true" />
+                <element signature="e#207#208#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#396#397#0" expanded="true" />
+                <element signature="e#424#425#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#529#530#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+                <element signature="e#632#633#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="373">
+              <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>object</find>
+      <find>keys</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/clock_in/date_3_23/包子凑数/Main.java" />
+        <option value="$PROJECT_DIR$/src/clock_in/date_3_23/分巧克力/Main.java" />
+        <option value="$PROJECT_DIR$/src/clock_in/date_3_23/k倍区间/Main.java" />
+        <option value="$PROJECT_DIR$/src/clock_in/date_3_23/尼姆堆/Main.java" />
+        <option value="$PROJECT_DIR$/src/clock_in/date_3_22/牌型种数/Main1.java" />
+        <option value="$PROJECT_DIR$/src/clock_in/date_3_23/取球博弈/Main.java" />
+        <option value="$PROJECT_DIR$/src/clock_in/date_3_22/牌型种数/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/买.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/Array.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/Queue.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/tree/Node.java" />
+        <option value="$PROJECT_DIR$/src/data_structure/tree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/bluebridgestudy/datastructure/MyList.java" />
+        <option value="$PROJECT_DIR$/src/bluebridgestudy/datastructure/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/bluebridgestudy/datastructure/MyArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/array/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/src/main/java/clock_in/date_3_4/判断两字符串的字符集是否相同/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/clock_in/date_3_22/加法变乘法/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/clock_in/date_3_22/垒骰子/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/clock_in/date_3_22/立方自身变/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/clock_in/date_3_23/包子凑数/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/clock_in/date_3_23/日期问题/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/array/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/买.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/MyArrayListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/MyList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/ArrayList/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/DoubleLinkList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/SingleLinkList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bluebridgestudy/datastructure/链表/DoubleLinkListTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/bluebridgestudy/datastructure/链表/SingleLinkListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/sort/BucketSort.java" />
+        <option value="$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/题目/链表去重.java" />
+        <option value="$PROJECT_DIR$/src/main/java/蓝桥杯培训/网球比赛.java" />
+        <option value="$PROJECT_DIR$/src/main/java/蓝桥杯培训/归并排序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/蓝桥杯培训/竖塔问题.java" />
+        <option value="$PROJECT_DIR$/src/main/java/蓝桥杯培训/动态规划之最短路径问题.java" />
+        <option value="$PROJECT_DIR$/src/main/java/领扣/从排序数组中删除重复项.java" />
+        <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/从排序数组中删除重复项.java" />
+        <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/买卖股票的最佳时机II.java" />
+        <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/IHashSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/IMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java" />
+        <option value="$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="arithmeticSchedule" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="arithmeticSchedule" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="404" />
+    <option name="y" value="122" />
+    <option name="width" value="1292" />
+    <option name="height" value="704" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bluebridgestudy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bluebridgestudy" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bluebridgestudy" type="462c0819:PsiDirectoryNode" />
+              <item name="datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="链表" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="data_structure" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561197490115" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="Lombok plugin" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="data_structure.hash" />
+      <recent name="bluebridgestudy.datastructure.链表" />
+      <recent name="bluebridgestudy.datastructure" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\programmer\arithmeticSchedule\src\data_structure\array" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyHashMapTest.keySet">
+    <configuration name="从排序数组中删除重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="领扣.从排序数组中删除重复项" />
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="领扣.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="竖塔问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="蓝桥杯培训.竖塔问题" />
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="蓝桥杯培训.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="网球比赛" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="蓝桥杯培训.网球比赛" />
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="蓝桥杯培训.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data_structure.hash" />
+      <option name="MAIN_CLASS_NAME" value="data_structure.hash.MyHashMapTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data_structure.hash" />
+      <option name="MAIN_CLASS_NAME" value="data_structure.hash.MyHashMapTest" />
+      <option name="METHOD_NAME" value="isEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest.iterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data_structure.hash" />
+      <option name="MAIN_CLASS_NAME" value="data_structure.hash.MyHashMapTest" />
+      <option name="METHOD_NAME" value="iterator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest.keySet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data_structure.hash" />
+      <option name="MAIN_CLASS_NAME" value="data_structure.hash.MyHashMapTest" />
+      <option name="METHOD_NAME" value="keySet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyHashMapTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="data_structure.hash.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="data_structure.hash" />
+      <option name="MAIN_CLASS_NAME" value="data_structure.hash.MyHashMapTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyHashMapTest.keySet" />
+        <item itemvalue="JUnit.MyHashMapTest.iterator" />
+        <item itemvalue="JUnit.MyHashMapTest" />
+        <item itemvalue="JUnit.MyHashMapTest.remove" />
+        <item itemvalue="JUnit.MyHashMapTest.isEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4f624de-a169-4b9a-a8f3-fb4146e44faa" name="Default Changelist" comment="" />
+      <created>1549895702848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549895702848</updated>
+      <workItem from="1549895706754" duration="2029000" />
+      <workItem from="1549958386298" duration="288000" />
+      <workItem from="1550038987745" duration="3035000" />
+      <workItem from="1550064898939" duration="3103000" />
+      <workItem from="1550109407356" duration="21000" />
+      <workItem from="1551680466013" duration="7916000" />
+      <workItem from="1551710718931" duration="4062000" />
+      <workItem from="1551765900899" duration="1199000" />
+      <workItem from="1551773924783" duration="9033000" />
+      <workItem from="1551829215806" duration="6328000" />
+      <workItem from="1552203988413" duration="3689000" />
+      <workItem from="1552260265773" duration="3938000" />
+      <workItem from="1552983113783" duration="4345000" />
+      <workItem from="1552994490119" duration="444000" />
+      <workItem from="1553074289081" duration="24799000" />
+      <workItem from="1553168805167" duration="5952000" />
+      <workItem from="1553210134352" duration="25565000" />
+      <workItem from="1553323662023" duration="16743000" />
+      <workItem from="1553382264220" duration="2657000" />
+      <workItem from="1554178363964" duration="24444000" />
+      <workItem from="1554301675003" duration="4055000" />
+      <workItem from="1554348222265" duration="767000" />
+      <workItem from="1554363373660" duration="702000" />
+      <workItem from="1554368555881" duration="599000" />
+      <workItem from="1554379780836" duration="10424000" />
+      <workItem from="1554450183896" duration="9093000" />
+      <workItem from="1554517802761" duration="689000" />
+      <workItem from="1554560306830" duration="2422000" />
+      <workItem from="1554642101757" duration="7326000" />
+      <workItem from="1554725919949" duration="7224000" />
+      <workItem from="1555424144110" duration="128000" />
+      <workItem from="1556524880711" duration="5335000" />
+      <workItem from="1556587547178" duration="3519000" />
+      <workItem from="1556592428322" duration="36000" />
+      <workItem from="1556612752670" duration="1425000" />
+      <workItem from="1557130870356" duration="4423000" />
+      <workItem from="1559912561355" duration="2105000" />
+      <workItem from="1559961809809" duration="5460000" />
+      <workItem from="1560142252965" duration="288000" />
+      <workItem from="1560871481199" duration="1107000" />
+      <workItem from="1560903530356" duration="1467000" />
+      <workItem from="1560931327922" duration="10931000" />
+      <workItem from="1561081006636" duration="4261000" />
+      <workItem from="1561106326769" duration="907000" />
+      <workItem from="1561189228250" duration="6985000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 37m 06s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 37m 37s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 37m 54s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 40m 51s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 41m 40s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 44m 29s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 45m 12s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 46m 23s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 52m 27s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 53m 14s.xml">
+      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241268000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990566" visible="true" weight="0.14179105" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="JRebel" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49971926" visible="true" weight="0.14238042" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49971926" weight="0.37708566" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50028074" side_tool="true" weight="0.34362933" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32722008" />
+      <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32924527" />
+      <window_info anchor="bottom" id="Favorites" order="14" sideWeight="0.5009434" weight="0.3899614" />
+      <window_info anchor="bottom" id="JRebel Executor" order="15" />
+      <window_info anchor="bottom" id="JRebel Console" order="16" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24985963" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295901" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.3295901" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="JRebel Setup Guide" order="9" weight="0.3295901" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_2_11/bubbleSort.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_2_13/SelectSort.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_5/去掉字符串中连接出现的k次的0/Main.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_5/最短摘要的生成/Main.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_6/字符串匹配之CarbinKarp/Main.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_6/让人头皮发麻的kmp算法/Main.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_11/机器人走格子/Main.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_20/dfs/数独.java</url>
+          <line>36</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_20/dfs/水洼数.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_20/dfs/荒岛问题.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/三羊献瑞/Main.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/垒骰子/Main.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/牌型种数/Main.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_23/取k位数/Main.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_23/最大公共子串/Main.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_23/包子凑数/Main.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_23/分巧克力/Main.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_23/分巧克力/Main.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/bluebridgestudy/datastructure/链表/SingleLinkListTest.java</url>
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/题目/链表去重.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/题目/链表去重.java</url>
+          <line>11</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java</url>
+          <line>105</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java</url>
+          <line>127</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_19/背包问题之黄金矿工/Main.java</url>
+          <line>40</line>
+          <properties class="clock_in.date_3_19.背包问题之黄金矿工.Main" method="bag">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java</url>
+          <line>63</line>
+          <properties class="data_structure.hash.MyHashMapTest" method="keySet">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="i" />
+        <watch expression="len(x)" />
+        <watch expression="array[i]" />
+        <watch expression="array[count]" />
+        <watch expression="fun1(n)" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Desktop/实验一 Java环境下的加解密实验/MD5Util.java" />
+    <entry file="file://$USER_HOME$/Desktop/实验一 Java环境下的加解密实验/DesUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/blueBridge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_4/判断两字符串的字符集是否相同/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="19" column="35" lean-forward="true" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+          <folding>
+            <element signature="e#457#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/加法变乘法/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="49" selection-start-line="6" selection-start-column="49" selection-end-line="6" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#144#152#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/垒骰子/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#182#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/立方自身变/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="50" selection-start-line="26" selection-start-column="50" selection-end-line="26" selection-end-column="50" />
+          <folding>
+            <element signature="e#601#607#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_23/包子凑数/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#462#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_23/日期问题/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="18" column="53" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+          <folding>
+            <element signature="e#545#555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/array/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="20" column="27" lean-forward="true" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/买.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#167#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/MyArrayListTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/jboss/arquillian/container/arquillian-container-test-impl-base/1.4.0.Final/arquillian-container-test-impl-base-1.4.0.Final.jar!/org/jboss/arquillian/container/test/impl/client/deployment/DeploymentGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="227" column="5" lean-forward="true" selection-start-line="227" selection-start-column="5" selection-end-line="227" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Java_JDK1.8/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="103">
+          <caret line="229" column="27" selection-start-line="229" selection-start-column="27" selection-end-line="229" selection-end-column="27" />
+          <folding>
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="38" column="14" lean-forward="true" selection-start-line="38" selection-start-column="14" selection-end-line="38" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/ArrayList/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Java_JDK1.8/src.zip!/javax/swing/UIManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="986" column="33" lean-forward="true" selection-start-line="986" selection-start-column="33" selection-end-line="986" selection-end-column="33" />
+          <folding>
+            <element signature="e#38709#38710#0" expanded="true" />
+            <element signature="e#38761#38762#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bluebridgestudy/datastructure/链表/DoubleLinkListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="7" selection-start-column="2" selection-end-line="96" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/bluebridgestudy/datastructure/链表/SingleLinkListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sort/BucketSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/题目/链表去重.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="19" column="49" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/蓝桥杯培训/网球比赛.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="910">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/蓝桥杯培训/归并排序.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="19" selection-start-line="2" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/蓝桥杯培训/最近的点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/蓝桥杯培训/竖塔问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/蓝桥杯培训/大数相乘.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/蓝桥杯培训/动态规划之最短路径问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/ArrayList/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+          <folding>
+            <element signature="e#1342#1343#0" expanded="true" />
+            <element signature="e#1386#1387#0" expanded="true" />
+            <element signature="e#1446#1447#0" expanded="true" />
+            <element signature="e#1488#1489#0" expanded="true" />
+            <element signature="e#1740#1741#0" expanded="true" />
+            <element signature="e#1778#1779#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/从排序数组中删除重复项.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/买卖股票的最佳时机II.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="728">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#532#533#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/tree/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/tree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="631">
+          <caret line="75" column="33" selection-start-line="75" selection-start-column="33" selection-end-line="75" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/array/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-383">
+          <caret line="40" column="25" lean-forward="true" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
+          <folding>
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/DoubleLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Java_JDK1.8/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20722">
+          <caret line="830" selection-start-line="830" selection-end-line="830" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bluebridgestudy/datastructure/链表/SingleLinkList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1898">
+          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/IHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/model/ReflectiveCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/model/FrameworkMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="e#1464#1658#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/statements/RunBefores.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/internal/runners/statements/InvokeMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/BlockJUnit4ClassRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runners/ParentRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="369" selection-start-line="369" selection-end-line="369" />
+          <folding>
+            <element signature="e#2922#2923#0" expanded="true" />
+            <element signature="e#2966#2967#0" expanded="true" />
+            <element signature="e#10310#10449#0" expanded="true" />
+            <element signature="e#10448#10449#0" expanded="true" />
+            <element signature="e#11040#11204#0" expanded="true" />
+            <element signature="e#11203#11204#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12-sources.jar!/org/junit/runner/JUnitCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="137" selection-start-line="137" selection-end-line="137" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/IMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="33" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+          <folding>
+            <element signature="e#3460#3461#0" expanded="true" />
+            <element signature="e#3500#3501#0" expanded="true" />
+            <element signature="e#5872#5873#0" expanded="true" />
+            <element signature="e#5940#5941#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+          <folding>
+            <element signature="e#132#138#0" expanded="true" />
+            <element signature="e#185#186#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#396#397#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#529#530#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <last-edited>Manual container configuration|Manual</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>arithmeticSchedule</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: Arquillian JUnit:Release</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
