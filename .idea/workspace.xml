@@ -5,20 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f624de-a169-4b9a-a8f3-fb4146e44faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/IHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/IMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/动态规划之最短路径问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/大数相乘.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/归并排序.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/最近的点.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/竖塔问题.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/蓝桥杯培训/网球比赛.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/买卖股票的最佳时机II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/从排序数组中删除重复项.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/存在重复.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data_structure/hash/MyHashSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data_structure/hash/MyHashSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/领扣/探索/数组/旋转数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/领扣/探索/数组/旋转数组.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -59,12 +51,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="409">
-              <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+            <state relative-caret-position="2002">
+              <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
               <folding>
-                <element signature="e#3460#3461#0" expanded="true" />
-                <element signature="e#3500#3501#0" expanded="true" />
+                <element signature="e#5845#5846#0" expanded="true" />
                 <element signature="e#5872#5873#0" expanded="true" />
+                <element signature="e#5913#5914#0" expanded="true" />
                 <element signature="e#5940#5941#0" expanded="true" />
               </folding>
             </state>
@@ -74,34 +66,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="607">
-              <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
+            <state relative-caret-position="416">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="68" column="22" lean-forward="true" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
               <folding>
-                <element signature="e#132#138#0" expanded="true" />
-                <element signature="e#185#186#0" expanded="true" />
-                <element signature="e#207#208#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
-                <element signature="e#529#530#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/存在重复.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="36" selection-start-line="36" selection-end-line="42" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+            <state relative-caret-position="1352">
+              <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -131,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/clock_in/date_3_23/包子凑数/Main.java" />
         <option value="$PROJECT_DIR$/src/clock_in/date_3_23/分巧克力/Main.java" />
         <option value="$PROJECT_DIR$/src/clock_in/date_3_23/k倍区间/Main.java" />
         <option value="$PROJECT_DIR$/src/clock_in/date_3_23/尼姆堆/Main.java" />
@@ -176,12 +174,13 @@
         <option value="$PROJECT_DIR$/src/main/java/领扣/从排序数组中删除重复项.java" />
         <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/从排序数组中删除重复项.java" />
         <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/买卖股票的最佳时机II.java" />
-        <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/IHashSet.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/IMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java" />
-        <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java" />
         <option value="$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java" />
+        <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/存在重复.java" />
       </list>
     </option>
   </component>
@@ -222,7 +221,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -310,10 +308,38 @@
               <item name="data_structure" type="462c0819:PsiDirectoryNode" />
               <item name="tree" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="领扣" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="领扣" type="462c0819:PsiDirectoryNode" />
+              <item name="探索" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arithmeticSchedule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arithmeticSchedule" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="领扣" type="462c0819:PsiDirectoryNode" />
+              <item name="探索" type="462c0819:PsiDirectoryNode" />
+              <item name="数组" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -324,7 +350,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561197490115" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561289340195" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -364,13 +390,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MyHashMapTest.keySet">
-    <configuration name="从排序数组中删除重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="领扣.从排序数组中删除重复项" />
+  <component name="RunManager" selected="Application.存在重复">
+    <configuration name="旋转数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="领扣.探索.数组.旋转数组" />
       <module name="arithmeticSchedule" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="领扣.*" />
+          <option name="PATTERN" value="领扣.探索.数组.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="存在重复" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="领扣.探索.数组.存在重复" />
+      <module name="arithmeticSchedule" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="领扣.探索.数组.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -419,22 +458,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashMapTest.isEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arithmeticSchedule" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="data_structure.hash" />
-      <option name="MAIN_CLASS_NAME" value="data_structure.hash.MyHashMapTest" />
-      <option name="METHOD_NAME" value="isEmpty" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MyHashMapTest.iterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="arithmeticSchedule" />
       <extension name="coverage">
@@ -467,29 +490,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyHashMapTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="arithmeticSchedule" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="data_structure.hash.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="data_structure.hash" />
-      <option name="MAIN_CLASS_NAME" value="data_structure.hash.MyHashMapTest" />
-      <option name="METHOD_NAME" value="remove" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.存在重复" />
+        <item itemvalue="Application.旋转数组" />
         <item itemvalue="JUnit.MyHashMapTest.keySet" />
         <item itemvalue="JUnit.MyHashMapTest.iterator" />
         <item itemvalue="JUnit.MyHashMapTest" />
-        <item itemvalue="JUnit.MyHashMapTest.remove" />
-        <item itemvalue="JUnit.MyHashMapTest.isEmpty" />
       </list>
     </recent_temporary>
   </component>
@@ -547,14 +554,13 @@
       <workItem from="1560931327922" duration="10931000" />
       <workItem from="1561081006636" duration="4261000" />
       <workItem from="1561106326769" duration="907000" />
-      <workItem from="1561189228250" duration="6985000" />
+      <workItem from="1561189228250" duration="7646000" />
+      <workItem from="1561252612045" duration="10110000" />
+      <workItem from="1561287132070" duration="1376000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 37m 06s.xml">
-      <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 37m 37s.xml">
       <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
     </history-entry>
@@ -582,15 +588,18 @@
     <history-entry file="MyHashMapTest_iterator - 2019.06.22 at 17h 53m 14s.xml">
       <configuration name="MyHashMapTest.iterator" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MyHashMapTest_keySet - 2019.06.22 at 17h 57m 59s.xml">
+      <configuration name="MyHashMapTest.keySet" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241268000" />
+    <option name="totallyTimeSpent" value="253415000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990566" visible="true" weight="0.14179105" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4990566" visible="true" weight="0.14498934" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -599,15 +608,15 @@
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49971926" visible="true" weight="0.14238042" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49971926" weight="0.37708566" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49971926" visible="true" weight="0.30589545" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49971926" weight="0.3764479" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32925472" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50028074" side_tool="true" weight="0.34362933" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32722008" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32924527" />
@@ -776,6 +785,12 @@
           <properties />
           <option name="timeStamp" value="66" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/存在重复.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/clock_in/date_3_19/背包问题之黄金矿工/Main.java</url>
           <line>40</line>
@@ -794,22 +809,12 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="i" />
-        <watch expression="len(x)" />
-        <watch expression="array[i]" />
-        <watch expression="array[count]" />
-        <watch expression="fun1(n)" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Desktop/实验一 Java环境下的加解密实验/MD5Util.java" />
     <entry file="file://$USER_HOME$/Desktop/实验一 Java环境下的加解密实验/DesUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/blueBridge.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1058,18 +1063,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/tree/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
@@ -1205,12 +1198,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="79" column="13" lean-forward="true" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
+        <state relative-caret-position="2002">
+          <caret line="79" column="13" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
           <folding>
-            <element signature="e#3460#3461#0" expanded="true" />
-            <element signature="e#3500#3501#0" expanded="true" />
+            <element signature="e#5845#5846#0" expanded="true" />
             <element signature="e#5872#5873#0" expanded="true" />
+            <element signature="e#5913#5914#0" expanded="true" />
             <element signature="e#5940#5941#0" expanded="true" />
           </folding>
         </state>
@@ -1218,32 +1211,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/data_structure/hash/MyHashSet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="50" column="52" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
-          <folding>
-            <element signature="e#132#138#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#529#530#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#608#609#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="416">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/data_structure/hash/MyHashMapTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="62" column="9" lean-forward="true" selection-start-line="62" selection-start-column="9" selection-end-line="62" selection-end-column="9" />
+        <state relative-caret-position="1352">
+          <caret line="59" column="24" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/旋转数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="68" column="22" lean-forward="true" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/存在重复.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="36" selection-start-line="36" selection-end-line="42" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

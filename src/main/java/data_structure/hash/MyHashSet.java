@@ -5,7 +5,6 @@ import java.util.Iterator;
 public class MyHashSet<E> implements IHashSet<E> {
     private MyHashMap<E, E> hashMap = new MyHashMap<E, E>();
 
-
     @Override
     public void add(E key) {
         hashMap.put(key,null);
