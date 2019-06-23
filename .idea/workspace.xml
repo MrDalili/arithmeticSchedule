@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f624de-a169-4b9a-a8f3-fb4146e44faa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/移动零.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/领扣/探索/数组/俩数之和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -71,11 +71,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/移动零.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="211">
+              <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/俩数之和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="15" column="23" selection-end-line="23" />
+              <folding>
+                <element signature="e#355#373#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -105,7 +117,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/clock_in/date_3_23/取球博弈/Main.java" />
         <option value="$PROJECT_DIR$/src/clock_in/date_3_22/牌型种数/Main.java" />
         <option value="$PROJECT_DIR$/src/test/买.java" />
         <option value="$PROJECT_DIR$/src/data_structure/ArrayStack.java" />
@@ -156,6 +167,7 @@
         <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/俩个数组的交集II.java" />
         <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/加一.java" />
         <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/移动零.java" />
+        <option value="$PROJECT_DIR$/src/main/java/领扣/探索/数组/俩数之和.java" />
       </list>
     </option>
   </component>
@@ -325,7 +337,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561303156900" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561304676725" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -365,7 +377,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.移动零">
+  <component name="RunManager" selected="Application.俩数之和">
     <configuration name="移动零" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="领扣.探索.数组.移动零" />
       <module name="arithmeticSchedule" />
@@ -379,8 +391,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="存在重复" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="领扣.探索.数组.存在重复" />
+    <configuration name="俩数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="领扣.探索.数组.俩数之和" />
       <module name="arithmeticSchedule" />
       <extension name="coverage">
         <pattern>
@@ -459,11 +471,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.俩数之和" />
         <item itemvalue="Application.移动零" />
         <item itemvalue="Application.加一" />
         <item itemvalue="Application.俩个数组的交集II" />
         <item itemvalue="Application.只出现一次的数" />
-        <item itemvalue="Application.存在重复" />
       </list>
     </recent_temporary>
   </component>
@@ -523,7 +535,7 @@
       <workItem from="1561106326769" duration="907000" />
       <workItem from="1561189228250" duration="7646000" />
       <workItem from="1561252612045" duration="10110000" />
-      <workItem from="1561287132070" duration="12898000" />
+      <workItem from="1561287132070" duration="14561000" />
     </task>
     <servers />
   </component>
@@ -560,7 +572,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264937000" />
+    <option name="totallyTimeSpent" value="266600000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1839" height="1191" extended-state="6" />
@@ -575,15 +587,15 @@
       <window_info id="JRebel" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49971926" weight="0.265444" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49971926" visible="true" weight="0.37548262" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49971926" visible="true" weight="0.265444" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49971926" weight="0.37548262" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32925472" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3291506" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50028074" side_tool="true" weight="0.34362933" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32703003" />
       <window_info anchor="bottom" id="Duplicate detector" order="13" weight="0.32924527" />
@@ -766,7 +778,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/移动零.java</url>
-          <line>19</line>
+          <line>21</line>
           <properties />
           <option name="timeStamp" value="73" />
         </line-breakpoint>
@@ -794,17 +806,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/垒骰子/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="70" selection-start-line="8" selection-start-column="70" selection-end-line="8" selection-end-column="70" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#182#199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/clock_in/date_3_22/立方自身变/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1225,8 +1226,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/移动零.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="211">
+          <caret line="34" column="35" lean-forward="true" selection-start-line="34" selection-start-column="35" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/领扣/探索/数组/俩数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#355#373#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
