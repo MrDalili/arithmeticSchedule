@@ -12,11 +12,11 @@ public class 旋转数组 {
 //        for (int i = 0; i < array.length ; i++) {
 //            array[i] = scanner.nextInt();
 //        }
-        int m = 2;
-        int[] array = new int[]{1,2,3,4,5,6,7,8};
+        int m = 4;
+        int[] array = new int[]{1,2,3};
         fun1(array,m);
         System.out.println(Arrays.toString(array));
-        array = new int[]{1,2,3,4,5,6,7};
+        array = new int[]{1,2,3,4,5,6};
         fun2(array,m);
         System.out.println(Arrays.toString(array));
     }
@@ -59,38 +59,44 @@ public class 旋转数组 {
      * 还算可以的，对k取模，然后一次移到位
      */
     private static void fun2(int[] nums, int k){
+        if(k == 0)
+            return;
         //先对k求余
         k = k % nums.length;
         //如果k==0，那么久直接return
         if (k == 0)
             return;
+        //计算最因数
+        int li = lowestCommonMultiple(nums.length, k);
         //接下来的情况就是向右移动了
         //从第一个开始yidong
-        int start = 0;
-        int i = 0;
         //看length与k之间的关系
-        if (nums.length % k ==0){
             //那就是他要走k轮，从0~k
-            for (int j = 0; j < k ; j++) {
+            for (int j = 0; j < li ; j++) {
+                int cache = nums[j];
+                int nextCache = nums[j];
                 int index = j;
-                int cache;
-                while (j != index){
-                    cache = nums[j];
-                    int nextIndex = (index + k) % nums.length;
-                    nums[i] = nums[nextIndex];
-                    nums[nextIndex] = cache;
-                }
+                do {
+                    cache = nextCache;
+                    index = (index + k) % nums.length;
+                    nextCache = nums[index];
+                    nums[index] = cache;
+                }while (j != index);
             }
-        }else {
-            //
-            int index = 0;
-            int cache;
-            do {
-                cache = nums[index];
-                int nextIndex = (k + index) % nums.length;
-                nums[index] = nums[start];
-                nums[nextIndex] = cache;
-            }while (index == start);
         }
+
+
+    public static int lowestCommonMultiple(int num1 , int num2){
+        //意外条件
+        if (num1 == 0 || num2 == 0)
+            return 1;
+        //辗转相除法计算最小公倍数
+        int dubbo = 0;
+        while (num2 != 0){
+            dubbo = num1 % num2;
+            num1 = num2;
+            num2 = dubbo;
+        }
+        return num1;
     }
 }
